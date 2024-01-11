@@ -11,8 +11,8 @@ This program performs the local search algorithms, including (1) Straight-Forwar
 ## Usage
 To use the program:
 
-- Navigate to the /src directory
-- Run python main.py
+- Navigate to the `/src` directory
+- Run `python main.py`
 - Follow the prompts to enter the number of instances for n-Queen problems
 - With instance < 5, the program will print the initial board and final board to the output, with the result for each board and the average result.
 - With instance >=5, the program will print the average result.
